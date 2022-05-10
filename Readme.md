@@ -6,6 +6,6 @@
 <p>write "node index.js" to start the app on port number 3000</p>
 
 <h2>Frontend</h2>
-Move inside the frontend folder in the terminal and run "npm i" to install all dependencies.
-run "npm start" to start the frontend (which will start at port number 3001)
-Enjoy chatting!
+<p>Move inside the frontend folder in the terminal and run "npm i" to install all dependencies.</p>
+<p>run "npm start" to start the frontend (which will start at port number 3001)</p>
+<p>Enjoy chatting!</p>
